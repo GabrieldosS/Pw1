@@ -1,0 +1,129 @@
+*{
+background-image: url(".png");
+}
+
+
+#Cima{
+
+width: 1480px;
+height: 130px;
+background-color: #BCD2EE;
+border-radius: 12px;
+
+}
+
+#canto{
+
+width: 255px;
+height: 500px;
+background-color:#BCD2EE;
+border-radius: 12px;
+
+}
+
+
+#Meio{
+position: relative;
+top: -500px;
+width:1220px;
+height: 500px;
+background-color: #BCD2EE;
+float: right;
+border-radius: 12px;
+right: 80px;
+
+}
+
+
+h2{
+
+font-size: 28px;
+font-family: 'Roboto Mono', monospace;
+}
+
+img{
+
+width: 420px;
+
+}
+
+li{
+
+position: relative;
+left: 9px;
+font-size: 13px;
+font-family: 'Roboto Mono', monospace;
+}
+
+
+.a{
+
+
+position: relative;
+left: 150px;
+top: 102px;
+font-size: 20px;
+font-family: 'Roboto Mono', monospace;
+}
+
+.d{
+position: relative;
+left: 750px;
+top: -662px;
+font-size: 20px;
+font-family: 'Roboto Mono', monospace;
+
+}
+
+.skew {
+width: 10px;
+height: 499px;
+background:#778899;
+-webkit-transform: skew(0deg); 
+-ms-transform: skew(0deg);
+transform: skew(0deg); 
+position: relative;
+left: -70px;
+top: -263px;
+}
+
+h3{
+
+font-family: 'Roboto Mono', monospace;
+font-size: 18px;
+position: relative;
+left: 15px;
+}
+
+.e{
+position: relative;
+left: 1050px;
+top: -572px;
+border-radius: 20px;
+
+}
+
+
+h1{
+	font-family: 'Roboto Mono', monospace;
+	font-size: 25px;
+}
+
+p{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+}
+
+img{
+width: 60px;
+height: 67px;
+
+}
+
+.b{
+
+position: relative;
+left: 110px;
+top: -645px;
+
+}
